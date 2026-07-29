@@ -25,11 +25,11 @@ A modern, high-performance Flutter application designed for seamless QR code sca
 
 ---
 
-## 📱 Screenshots
+## 📱 App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/a.png" width="28%" alt="QR Generation Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/b.png" width="28%" alt="History Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshoots/a.png" width="30%" alt="QR Generation Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshoots/b.png" width="30%" alt="History Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icon.png" width="150" alt="App Icon">
 </p>
 
