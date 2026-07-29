@@ -28,10 +28,19 @@ A modern, high-performance Flutter application designed for seamless QR code sca
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/a.png" width="28%" alt="QR Generation Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/b.png" width="28%" alt="History Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icon.png" width="150" alt="App Icon">
+  <!--suppress HtmlUnknownTarget -->
+<img src="assets/screenshots/a.png" width="28%" alt="QR Generation Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--suppress HtmlUnknownTarget -->
+<img src="assets/screenshots/b.png" width="28%" alt="History Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icon.png" width="1024" alt="App Icon">
 </p>
+
+---
+##📞 Contact & Support
+Developer: Yahya 💪
+
+WhatsApp: Message me on WhatsApp (+20 155 342 7179)
+
 
 ---
 ## 🚀 Getting Started
