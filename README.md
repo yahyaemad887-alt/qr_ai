@@ -37,12 +37,4 @@ A modern, high-performance Flutter application designed for seamless QR code sca
 ##📞 Contact & Support
 Developer: Yahya 💪
 
-WhatsApp: Message me on WhatsApp (+20 155 342 7179)
-
-
----
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/QrAi.git](https://github.com/your-username/QrAi.git)
+WhatsApp: Message me on WhatsApp +20 155 342 7179
